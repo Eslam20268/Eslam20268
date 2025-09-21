@@ -1,6 +1,8 @@
 
 <h1 align="center">👋 Hi, I’m Eslam</h1>
-
+<div align ="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+;CS++%26++graduated+from+Modern+Academy" alt="Typing SVG" /></a>
+</div>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Eslam20268.Eslam20268&" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Eslam20268">
