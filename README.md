@@ -6,5 +6,5 @@ Hi there 👋 I'm Eslam
 - 💬 Ask me about data insights, visualizations, or Python workflows
 - 😄Pronouns: he/him
 - 📫 How to reach me: eslamessam20268@gmail.com 
-🎓 Graduated from Modern Academy in 2025
-🚀 Building my portfolio to start a career in data analysis and machine learning
+- 🎓 Graduated from Modern Academy in 2025
+- 🚀 Building my portfolio to start a career in data analysis and machine learning
