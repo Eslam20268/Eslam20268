@@ -22,4 +22,4 @@
 - 🎓 Graduated from Modern Academy in 2025  
 - 🚀 Building my portfolio to start a career in data analysis and machine learning
 ## 📬 Contact Me
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR_USERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/eslam0essam/)
