@@ -21,13 +21,19 @@
 - 📫 How to reach me: eslamessam20268@gmail.com  
 - 🎓 Graduated from Modern Academy in 2025  
 - 🚀 Building my portfolio to start a career in data analysis and machine learning
-
-## programming language
+## My Tools
+#### programming language
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" alt="Python Icon" />
 </p>
 
+#### Frameworks, Technologies and Libraries
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sklearn,pandas,firebase" alt="Frameworks and Libraries"/>
+  </a>
+</div>
 
 ## 📬 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/eslam0essam/)
