@@ -1,47 +1,56 @@
-<h1 align="center">👋 Hi, I’m Eslam</h1>
+<h1 align="center">👋 Hi, I'm Eslam</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+;CS++%26++graduated+from+Modern+Academy" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=AI+Engineer;Computer+Science+Graduate;Data+Science+%26+Machine+Learning" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Eslam20268.Eslam20268&" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Eslam20268">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Eslam20268.Eslam20268" />
+  <img src="https://img.shields.io/github/followers/Eslam20268?label=Followers&style=flat" />
 </p>
 
-<hr>
-💫 About Me:
-🔭 I’m currently working on data science projects in real estate.
-👯 I’m looking to collaborate on ML & data analysis projects.
-🤝 I’m looking for help with model optimization.
-🌱 I’m currently learning deep learning & advanced ML.
-💬 Ask me about Python, pandas, scikit-learn.
-⚡ Fun fact: I enjoy finding patterns in messy data
+---
 
-🌐 Socials:
-LinkedIn
+## 💫 About Me
+- 🔭 Currently working on **Data Science & Machine Learning projects** (Real Estate focus).
+- 👯 Open to collaborate on **ML, AI, and Data Analysis projects**.
+- 🤝 Looking for help with **model optimization & deployment**.
+- 🌱 Currently learning **Deep Learning & Advanced ML techniques**.
+- 💬 Ask me about **Python, Pandas, Scikit-learn, ML workflows**.
+- ⚡ Fun fact: I love turning messy data into meaningful insights 📊.
 
-💻 Tech Stack:
-Pandas Plotly scikit-learn NumPy Matplotlib PyTorch TensorFlow mlflow Keras Scipy
+---
 
-📊 GitHub Stats:
-</p>
-
-#### Frameworks, Technologies and Libraries
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,pandas,firebase" alt="Frameworks and Libraries"/>
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/eslam0essam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Eslam-blue?logo=linkedin&style=flat" />
   </a>
-</div>
+</p>
 
-## 📬 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/eslam0essam/)
+---
 
-## pacman
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib,plotly,tensorflow,pytorch,firebase" />
+</p>
 
+**Tools & Libraries:**  
+`Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib` • `Plotly` • `TensorFlow` • `PyTorch` • `Keras` • `MLflow` • `SciPy`
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eslam20268&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslam20268&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🕹️ Pacman Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eslam20268/Eslam20268/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eslam20268/Eslam20268/output/pacman-contribution-graph.svg">
