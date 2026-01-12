@@ -12,19 +12,21 @@
 </p>
 
 <hr>
+💫 About Me:
+🔭 I’m currently working on data science projects in real estate.
+👯 I’m looking to collaborate on ML & data analysis projects.
+🤝 I’m looking for help with model optimization.
+🌱 I’m currently learning deep learning & advanced ML.
+💬 Ask me about Python, pandas, scikit-learn.
+⚡ Fun fact: I enjoy finding patterns in messy data
 
-- 🔭 Currently working on a Car Sale to Machine Learning project  
-- 🌱 Learning data analysis, dashboard design, Python visualization, and currently diving into machine learning  
-- 👯 Open to collaborating on real-world data projects  
-- 💬 Ask me about data insights, visualizations, or Python workflows  
-- 😄 Pronouns: he/him  
-- 📫 How to reach me: eslamessam20268@gmail.com  
-- 🎓 Graduated from Modern Academy in 2025  
-- 🚀 Building my portfolio to start a career in data analysis and machine learning
-## 🔧 My Tools
-#### programming language
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python Icon" />
+🌐 Socials:
+LinkedIn
+
+💻 Tech Stack:
+Pandas Plotly scikit-learn NumPy Matplotlib PyTorch TensorFlow mlflow Keras Scipy
+
+📊 GitHub Stats:
 </p>
 
 #### Frameworks, Technologies and Libraries
