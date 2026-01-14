@@ -66,10 +66,9 @@ I actively explore and document:
 ---
 
 ## 🕹️ Pacman Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Eslam20268/Eslam20268/main/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eslam20268/Eslam20268/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eslam20268/Eslam20268/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Eslam20268/Eslam20268/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/main/output/assets/city-night.png" width="100%" alt="City Night Background" />
-</p>
