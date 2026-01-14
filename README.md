@@ -14,7 +14,7 @@
 ---
 
 ## 💫 Overview
-I am an AI-focused engineer specializing in **machine learning and applied AI**, with a strong emphasis on building **practical, scalable, and impact-driven solutions**.
+I am an AI-focused engineer specializing in **machine learning and applied AI**, with a strong emphasis on building **practical, scalable, and impact-driven solutions**.  
 
 My work centers on translating machine learning techniques into real-world applications—combining **data-driven modeling, feature engineering, and automation pipelines** to solve meaningful problems. I value clean engineering practices, continuous learning, and collaborative development.
 
@@ -22,27 +22,27 @@ My work centers on translating machine learning techniques into real-world appli
 
 ## 🚀 What I Build
 - **Applied Machine Learning & Deep Learning systems**  
-  From experimentation to end-to-end implementation  
-- **Automation & intelligent workflows**  
-  Streamlined pipelines that reduce manual effort and improve efficiency  
-- **Data-driven applications**  
-  Tools that convert insights into actionable outcomes  
+  From experimentation to end-to-end implementation
+- **Automation & Intelligent Workflows**  
+  Streamlined pipelines that reduce manual effort and improve efficiency
+- **Data-driven Applications**  
+  Tools that convert insights into actionable outcomes
 
 ---
 
 ## 📌 Featured Work
 Selected projects showcasing applied AI and automation:
-- End-to-End Machine Learning & Deep Learning Models  
-- Predictive Analytics & Data Science Projects  
-- Automation Tools & Intelligent Data Workflows  
+- End-to-End Machine Learning & Deep Learning Models
+- Predictive Analytics & Data Science Projects
+- Automation Tools & Intelligent Data Workflows
 
 ---
 
 ## 📚 Research & Continuous Learning
 I actively explore and document:
-- Machine Learning & Deep Learning concepts  
-- Model evaluation, optimization, and feature engineering  
-- Technical books, courses, and structured learning paths  
+- Machine Learning & Deep Learning concepts
+- Model evaluation, optimization, and feature engineering
+- Technical books, courses, and structured learning paths
 
 ---
 
@@ -72,3 +72,4 @@ I actively explore and document:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Eslam20268/Eslam20268/output/pacman-contribution-graph.svg">
 </picture>
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/assets/city-night.png" width="100%">
